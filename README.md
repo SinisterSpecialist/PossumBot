@@ -8,8 +8,6 @@
 
 * Ban everyone in a matter of seconds.
 
-* More features coming soon!
-
 ## Commands:
 
 * `!myakish` - to get admin perms.
